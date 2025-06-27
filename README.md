@@ -11,8 +11,8 @@ El proyecto RedComex consiste en el desarrollo de una aplicación web integral o
 
 ### Módulo de Empresas
 - Registro de empresas asociadas a usuarios.
--  Modificación y eliminación de información empresarial.
-  -  Asociación de múltiples productos por empresa.
+- Modificación y eliminación de información empresarial.
+- Asociación de múltiples productos por empresa.
 ---
 
 ### Módulo de Productos
