@@ -33,7 +33,8 @@ El proyecto RedComex consiste en el desarrollo de una aplicación web integral o
 - Obtención de tasas arancelarias actualizadas desde fuentes externas.
 - Registro del valor arancelario al momento de exportar para mantener trazabilidad histórica.
 ---   
-### Estadísticas e Informes- Generación de estadísticas por empresa, producto y país.
+### Estadísticas e Informes
+- Generación de estadísticas por empresa, producto y país.
 - Cálculo de promedios, totales exportados y tendencias.
 - Visualización de indicadores clave (KPI) para la toma de decisiones.
 
